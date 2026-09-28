@@ -11,17 +11,31 @@
   <a href="mailto:SEU-EMAIL-AQUI">📧 E-mail</a>
 </p>
 
-Construo o **[Papo Redação](https://SEU-SITE-AQUI)**, plataforma de correção de redações do ENEM com inteligência artificial, usada por escolas e cursinhos.
-
 ---
 
-## 🚀 O que estou construindo
+<h2 align="center">✍️ Papo Redação</h2>
 
-**Papo Redação** — correção automatizada de redações no padrão das 5 competências do ENEM, com feedback detalhado para o aluno e painéis para professores e coordenação.
+<p align="center">
+  <i>Correção de redações do ENEM com inteligência artificial, para escolas e cursinhos.</i>
+</p>
 
-- Arquitetura hexagonal para isolar a lógica de correção de qualquer provedor de LLM
-- Processamento assíncrono de correções em escala
-- Privacidade e LGPD tratadas como requisito de produto, não como detalhe
+> Corrigir redação é uma das tarefas que mais consome tempo de um professor, e o aluno costuma esperar dias por um retorno que já chega tarde para a próxima prova.
+> O **[Papo Redação](https://SEU-SITE-AQUI)** muda isso: cada texto é avaliado nas **5 competências do ENEM**, com feedback claro sobre o que melhorar, para o aluno evoluir a cada redação e o professor ganhar tempo para o que só ele faz.
+
+|  | O que entrega |
+|---|---|
+| 🎓 **Para o aluno** | Avaliação por competência e feedback detalhado para saber exatamente onde melhorar |
+| 👩‍🏫 **Para o professor** | Menos tempo corrigindo e mais tempo ensinando, com o acompanhamento de cada texto |
+| 🏫 **Para a escola ou cursinho** | Painéis para professores e coordenação acompanharem a evolução das turmas |
+
+**Como funciona**
+
+1. O aluno envia a redação.
+2. A IA avalia o texto nas 5 competências do ENEM.
+3. O aluno recebe o feedback detalhado para reescrever e melhorar.
+4. Professores e coordenação acompanham a evolução no painel.
+
+---
 
 ## 🛠️ Linguagens e Tecnologias
 
@@ -59,4 +73,12 @@ Construo o **[Papo Redação](https://SEU-SITE-AQUI)**, plataforma de correção
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170"
+  <img height="170" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Leandrin7&show_icons=true&theme=dark&include_all_commits=true&hide_border=true">
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrin7&layout=compact&theme=dark&hide_border=true">
+</p>
+
+## 📫 Contato
+
+- 🌐 Site: [SEU-SITE-AQUI](https://SEU-SITE-AQUI)
+- 💼 LinkedIn: [SEU-LINKEDIN-AQUI](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+- 📧 E-mail: SEU-EMAIL-AQUI
