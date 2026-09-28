@@ -37,6 +37,10 @@
 
 ---
 
+## 🧠 Minha trajetória com código
+
+Programo há **11 anos**. Comecei com um curso de Java só porque queria entender como o Minecraft funcionava, e nunca parei: aprendi por conta própria, passei por drones e hardware, e hoje construo sozinho um produto de IA em produção, do banco de dados ao deploy.
+
 ## 🛠️ Linguagens e Tecnologias
 
 <p>
@@ -58,24 +62,30 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-**Linguagens:** Python, Java, JavaScript, TypeScript, Lua, HTML e CSS
-**Frontend:** React, Next.js
-**IA:** integração com LLMs via API (Anthropic), avaliação de qualidade e engenharia de prompts
-**Backend:** APIs, workers assíncronos, filas, cache, autenticação
-**Infra e ferramentas:** AWS, Vercel, Railway, Git, deploy containerizado, monorepo com pnpm + Turborepo
+## 🔧 O que já construí com cada uma
+
+| Tecnologia | O que eu já fiz |
+|---|---|
+| **TypeScript · JavaScript** | Toda a base do Papo Redação: interface, painéis e regras do produto, organizados em monorepo com pnpm + Turborepo (`apps/web`, `apps/api`, `packages/shared`) |
+| **React · Next.js** | Interface web do Papo Redação (alunos, professores e coordenação), publicada na Vercel e hoje em fase de polimento visual |
+| **HTML · CSS** | Telas e acabamento visual do produto; **[PREENCHER: outros sites ou projetos]** |
+| **Node.js** | Worker assíncrono que processa as correções em segundo plano, rodando na Railway |
+| **PostgreSQL · Supabase** | Banco de dados, autenticação e armazenamento de arquivos do produto |
+| **Docker** | Builds por Dockerfile, ajuste de healthcheck e estratégia de réplicas no deploy da Railway |
+| **Vercel · Railway** | Deploy do front e do worker, com configuração de produção e correção de problemas reais em produção |
+| **IA e LLMs** | Integração com a API da Anthropic para corrigir redações, avaliação de outros provedores de modelo e engenharia de prompts |
+| **Python** | Análise de dados com pandas sobre o banco do produto (funil de cadastro); **[PREENCHER: outros projetos em Python]** |
+| **Java** | Onde tudo começou, há 11 anos; **[PREENCHER: projetos em Java]** |
+| **Lua** | **[PREENCHER: o que você fez com Lua]** |
+| **AWS** | **[PREENCHER: quais serviços e para quê]** |
+| **Git** | Versionamento do produto e do fluxo de trabalho; **[PREENCHER: prática que você domina, como branches, PRs ou CI]** |
+| **Hardware e drones** | Fora do código, projetos com drones e eletrônica |
 
 ## 🎯 Em foco agora
 
 - Evoluir o motor de correção do Papo Redação
 - Preparação para o Desafio de Informática da PUC-Rio (algoritmos e estruturas de dados)
 - Expandir o banco de questões de vestibular na plataforma
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Leandrin7&show_icons=true&theme=dark&include_all_commits=true&hide_border=true">
-  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrin7&layout=compact&theme=dark&hide_border=true">
-</p>
 
 ## 📫 Contato
 
