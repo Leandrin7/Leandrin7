@@ -43,18 +43,3 @@ Você me encontra no Instagram como **[@leandrinl7](https://instagram.com/leandr
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-## O que eu sei fazer com cada uma
-
-| Tecnologia | Experiência prática |
-|---|---|
-| **TypeScript** | Escrevo toda a base do Papo Redação em TypeScript: front, API, worker e pacotes compartilhados |
-| **React · Next.js** | Construí a interface web completa, com áreas separadas para alunos, professores e coordenação e painéis de acompanhamento |
-| **Node.js** | Desenvolvi um worker assíncrono que processa as correções em segundo plano sem travar a aplicação |
-| **Anthropic API** | Integrei LLMs ao produto para avaliar redações nas 5 competências do ENEM, com engenharia de prompts própria e avaliação de outros provedores de modelo |
-| **PostgreSQL · Supabase** | Modelo e mantenho o banco de dados, a autenticação e o armazenamento de arquivos |
-| **Mercado Pago** | Integrei cobrança e assinaturas para clientes B2B |
-| **Vercel** | Faço o deploy e a configuração de produção do front-end |
-| **Railway · Docker** | Coloco o worker em produção com build por Dockerfile, healthcheck ajustado e estratégia de réplicas |
-| **pnpm · Turborepo** | Estruturei o projeto em monorepo (`apps/web`, `apps/api`, `packages/shared`) com builds em cache |
-| **Python · pandas** | Faço análise de dados direto sobre o banco do produto, como o funil de cadastro |
-| **Git · GitHub** | Versionamento e fluxo de trabalho do projeto |
