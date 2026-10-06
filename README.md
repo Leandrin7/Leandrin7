@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://SEU-SITE-AQUI">Site</a> ·
   <a href="https://instagram.com/leandrinl7">Instagram</a> ·
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI">LinkedIn</a> ·
-  <a href="mailto:SEU-EMAIL-AQUI">E-mail</a>
+  <a href="mailto:Leandroablima2@gmail.com">E-mail</a>
 </p>
 
 ---
